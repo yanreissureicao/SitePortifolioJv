@@ -12,7 +12,8 @@ Um portfólio moderno e imersivo para filmmaker/editor, com foco em experiência
 	•	ScrollTrigger
 	•	Lenis (Smooth Scroll)
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
 
 ✨ Funcionalidades
 	•	 Hero com vídeo em background (cinematográfico)
@@ -26,7 +27,8 @@ Um portfólio moderno e imersivo para filmmaker/editor, com foco em experiência
 	•	 Efeito magnético em CTA
 	•	 Layout totalmente responsivo (mobile + desktop)
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
 
 📱 Responsividade
 
@@ -42,7 +44,8 @@ O projeto foi otimizado para:
 	2.	Clique com botão direito no index.html
 	3.	Clique em Open with Live Server
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
 
   🎯 Objetivo do Projeto
 
@@ -52,7 +55,7 @@ Criar um portfólio moderno com foco em:
 	•	Design minimalista e cinematográfico
 	•	Impacto para clientes e marcas
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 
 🔥 Melhorias Futuras
@@ -62,7 +65,8 @@ Criar um portfólio moderno com foco em:
 	•	🌐 Integração com backend / CMS
 	•	⚡ Otimização de performance (lazy loading)
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
 
 Autor
 
